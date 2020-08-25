@@ -1,0 +1,15 @@
+{
+  "name": "minifyphpfile",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1"
+  },
+  "keywords": [],
+  "author": "Gabriel Luciano",
+  "license": "MIT"
+}

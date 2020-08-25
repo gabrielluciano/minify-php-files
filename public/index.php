@@ -1,0 +1,1 @@
+<!DOCTYPE html><html lang="pt-bt"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Document To Minify</title></head><body> <?php echo "I am minified!!"; ?> </body></html>
